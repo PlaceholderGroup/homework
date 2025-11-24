@@ -9,9 +9,9 @@ A comprehensive report of the progress made and assignments completed for CS 500
     - [Design Diagrams](./group/User_Stories.md#design-diagrams): Level 0, Level 1 and Level 2
     - [Description of the Diagrams](./group/User_Stories.md#design-diagrams): including conventions and a brief description of the purpose of each component.
 4. Project Tasks and Timeline (Assignment #5-6)
-    - Task List
-    - Timeline
-    - Effort Matrix
+    - [Task List](./group/Milestones%2C%20Timeline%2C%20and%20Effort%20Matrix.md#milestones)
+    - [Timeline](/group/Milestones%2C%20Timeline%2C%20and%20Effort%20Matrix.md#timeline)
+    - [Effort Matrix](/group/Milestones%2C%20Timeline%2C%20and%20Effort%20Matrix.md#effort-matrix)
 5. [ABET Concerns Essay](./group/Project%20Constraints%20Essay.md) (Assignment #7)
 6. [PPT Slideshow (includes ABET Concerns)](#ppt-slideshow) (Assignment #8)
 7. [Self-Assessment Essays](#self-assessment-essays) (Assignment #3)
