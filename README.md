@@ -12,7 +12,7 @@ A comprehensive report of the progress made and assignments completed for CS 500
     - Task List
     - Timeline
     - Effort Matrix
-5. ABET Concerns Essay (Assignment #7)
+5. [ABET Concerns Essay](./group/Project%20Constraints%20Essay.md) (Assignment #7)
 6. [PPT Slideshow (includes ABET Concerns)](#ppt-slideshow) (Assignment #8)
 7. Self-Assessment Essays (Assignment #3)
 8. [Professional Biographies](#professional-biographies) (Assignment #1)
