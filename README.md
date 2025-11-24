@@ -44,7 +44,7 @@ A cross-platform mobile app that makes it dead-simple to share the correct conta
 - [Anne Ning]()
 - [Jack Detrick]()
 - [Jonah Carter]()
-- [Kevin Long]()
+- [Kevin Long](./individual/kevin/bio.md)
 
 ## Budget
 As of 2025/11/24, we have not had any project related expenses.
