@@ -14,7 +14,7 @@ A comprehensive report of the progress made and assignments completed for CS 500
     - Effort Matrix
 5. [ABET Concerns Essay](./group/Project%20Constraints%20Essay.md) (Assignment #7)
 6. [PPT Slideshow (includes ABET Concerns)](#ppt-slideshow) (Assignment #8)
-7. Self-Assessment Essays (Assignment #3)
+7. [Self-Assessment Essays](#self-assessment-essays) (Assignment #3)
 8. [Professional Biographies](#professional-biographies) (Assignment #1)
 9. [Budget](#budget)
 10. [Appendix](#appendix)
@@ -42,6 +42,12 @@ Our focus is on making the experience as frictionless for both the sharer and th
 ## PPT Slideshow
 - [Slides](https://docs.google.com/presentation/d/1QuAuR-Rzw4278_MuOEcm_G7NuQxXVfcbX-eU6XOwzng/edit?usp=sharing)
 - [Video](https://uc.mediaspace.kaltura.com/media/t/1_k1c30a46)
+
+## Self-Assessment Essays
+- [Anne Ning]()
+- [Jack Detrick]()
+- [Jonah Carter]()
+- [Kevin Long](./individual/kevin/assessment.md)
 
 ## Professional Biographies
 - [Anne Ning]()
