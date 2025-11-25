@@ -45,14 +45,14 @@ Our focus is on making the experience as frictionless for both the sharer and th
 
 ## Self-Assessment Essays
 - [Anne Ning](./individual/anne/assessment.md)
-- [Jack Detrick]()
+- [Jack Detrick](./individual/jack/Individual%20Capstone%20Assessment.pdf)
 - [Jonah Carter]()
 - [Kevin Long](./individual/kevin/assessment.md)
 
 ## Professional Biographies
 - [Anne Ning]()
-- [Jack Detrick]()
-- [Jonah Carter]()
+- [Jack Detrick](./individual/jack/bio.md)
+- [Jonah Carter](./individual/Jonah/JonahCarter%20-%20ProfesionalBio.md)
 - [Kevin Long](./individual/kevin/bio.md)
 
 ## Budget
