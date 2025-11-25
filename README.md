@@ -44,7 +44,7 @@ Our focus is on making the experience as frictionless for both the sharer and th
 - [Video](https://uc.mediaspace.kaltura.com/media/t/1_k1c30a46)
 
 ## Self-Assessment Essays
-- [Anne Ning]()
+- [Anne Ning](./individual/anne/assessment.md)
 - [Jack Detrick]()
 - [Jonah Carter]()
 - [Kevin Long](./individual/kevin/assessment.md)
