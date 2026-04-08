@@ -69,7 +69,7 @@ Yes! While you can absolutely use our app to manage all your contacts we save th
   - [Final]()
 - Jack Detrick
   - [Initial](/individual/jack/Individual%20Capstone%20Assessment.pdf)
-  - [Final]()
+  - [Final](/individual/jack/final_assessment.pdf)
 - Jonah Carter
   - [Initial]()
   - [Final]()
