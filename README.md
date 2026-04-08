@@ -80,6 +80,7 @@ Yes! While you can absolutely use our app to manage all your contacts we save th
 ## Summary of Hours and Justification
 - Anne Ning
 - Jack Detrick
+  - I did not track my precise hours, but I'm certain that my work has met the required quota of 45 hours. Especially when considering design work and app architecture discussions. I spent time researching       database best practices, Expo documentation, and working with the frontend team to structure the backend to best support them. I've made commits to the repo, primarily the db_branch, and merged them with the mvp branch.
 - Jonah Carter
 - Kevin Long
   - I did not track the exact number of hours I spent on this project. I am however confident that it is well over 45 hours even in just the past month, let alone the whole span of the project and semester. In addition to [the many commits](https://github.com/PlaceholderGroup/app/commits/main/) I made to the repository, I also frequently joined in and contributed to official and unofficial team meetings and discussions. I additionally performed extensive research into each of the components of our project, most notably the sharing technologies and data interchange formats we used.
