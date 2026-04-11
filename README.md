@@ -66,7 +66,7 @@ Yes! While you can absolutely use our app to manage all your contacts we save th
 ## Self-Assessment Essays
 - Anne Ning
   - [Initial](/individual/anne/assessment.md)
-  - [Final]()
+  - [Final](/individual/anne/final.md)
 - Jack Detrick
   - [Initial](/individual/jack/Individual%20Capstone%20Assessment.pdf)
   - [Final](/individual/jack/final_assessment.pdf)
