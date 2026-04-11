@@ -79,6 +79,7 @@ Yes! While you can absolutely use our app to manage all your contacts we save th
 
 ## Summary of Hours and Justification
 - Anne Ning
+  - While the exact number of hours on the project was not tracked, I have met the requirement of 45 hours spent on this project. With the consistent meetings of at least once a week (and often more) to work on design, implementation, and documentation each taking up at least an hour or two, many hours were put into group work and collaboration. Furthermore, as design was a major part in contributing to our user-friendly project, many hours were spent in activities such as user research, design iterations, and decision-making on all functionalities and interfaces. In addition, many hours were spent programming and working on features such as the contact information panels and the feature to add customized profiles.
 - Jack Detrick
   - I did not track my precise hours, but I'm certain that my work has met the required quota of 45 hours. Especially when considering design work and app architecture discussions. I spent time researching       database best practices, Expo documentation, and working with the frontend team to structure the backend to best support them. I've made commits to the repo, primarily the db_branch, and merged them with the mvp branch.
 - Jonah Carter
